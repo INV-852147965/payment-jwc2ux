@@ -1,8 +1,10 @@
 2026-09-15
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: davidsantana409@yahoo.com, shabarr@fairpoint.net
-At: 2026-09-15 23:00:43
-Id: pCZME7Yq
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: v.williams2310@sbcglobal.net, shaynahdavis93@aol.com
+At: 2026-09-15 23:01:22
+Id: L1BBfYrX
